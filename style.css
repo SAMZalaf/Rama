@@ -42,7 +42,7 @@ body {
 .rama-text {
     font-family: 'Brush Script MT', cursive; /* خط جذاب (قد لا يكون متوفراً في كل الأنظمة) */
     font-size: 6em;
-    color: #FF00FF; /* لون زهري جذاب */
+    color: #ff69b4; /* لون زهري جذاب */
     text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
     opacity: 0; /* مخفي في البداية */
     transform: scale(0.5); /* حجم صغير في البداية */
